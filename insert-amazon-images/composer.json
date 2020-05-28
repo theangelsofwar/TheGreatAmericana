@@ -1,0 +1,6 @@
+{
+    "require": {
+        "geoip2/geoip2": "^2.8",
+        "najamhaq/paapi5-php-sdk": "^1.0"
+    }
+}
